@@ -1,3 +1,6 @@
+> **Note:** This repository is a fork of [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls.git) for specific modifications.
+> Please refer to the [mbedtls](https://github.com/Mbed-TLS/mbedtls.git) for the latest version and upstream updates.
+
 README for Mbed TLS
 ===================
 
